@@ -7,6 +7,5 @@ public class Challenge {
         int Long =(myByte * myShort * myInt) * 5;
 
     }
-
 }
 
